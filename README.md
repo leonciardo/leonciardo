@@ -1,7 +1,11 @@
 - 👋 Hi, I’m @leonciardo
-- 👀 I’m interested in Python!
-- 🌱 I’m currently learning Python, back-end, django..
-- 💞️ I’m looking to collaborate on everything I can
+
+- 🌱 I’m currently learning data analytics, Microsoft SQL server and Power BI.
+
+- Completed courses so far:
+1.[PCAP: Programming Essentials in Python]
+2.[Python, back-end, django]
+
 - 📫 How to reach me mesaglioleonardo@gmail.com
 
 <!---

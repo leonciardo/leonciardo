@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @leonciardo
+- 👋 Hi, My name is Leonardo Mesaglio
 
 - Completed courses so far:
  
